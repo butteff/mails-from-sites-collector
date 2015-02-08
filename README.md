@@ -1,4 +1,4 @@
-# mails-from-sites-collector
+# mails from sites php collector
 php script, which can find and collect all e-mails from array of sites and save results to serialize file data.
 You also can display var_dump results on your screen.
 <br/><br/>
